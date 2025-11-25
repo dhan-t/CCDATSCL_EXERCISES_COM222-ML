@@ -1,0 +1,5 @@
+Validation_Rule,Violations_Count,Total_Rows_Before_Drop,Violations_Dropped,Total_Rows_After_Drop
+Price_Non_Positive,0,48884,0,48884
+HostID_is_Null,0,48884,0,48884
+MinNights_LessThan_One,0,48884,0,48884
+LastReview_In_Future,0,48884,0,48884
